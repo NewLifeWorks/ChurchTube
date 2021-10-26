@@ -1,0 +1,2 @@
+# ChurchTube
+Hello, this is a faith based project where I hope to encourage any faith community to upload worship, praise, testimony and what positive is happening in their lives. This platform will be dedicated to this cause. I'm newer at php and welcome any help on this project. The project comes from Udemy where I'm coding along with the instructor. Ultimately, I'd also like to know how to take the video folders and files and know exactly which ones they need to be to assign them to other faith based projects I'm working on. I welcome any assistance. Thank you. 
